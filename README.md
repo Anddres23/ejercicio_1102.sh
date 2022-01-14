@@ -1,6 +1,6 @@
 # ejercicio_1102.sh
 
-###### Literal 1
+##### Literal 1
 
 - Primero nos ubicamos en la carpeta con los datos que nos solicita el ejercicio, en este caso:
 
@@ -49,7 +49,7 @@ $ cut -f 1 Gesquiere2011_data.csv | grep -c -w 27
 - Aqui terminaria el literal 1
 
 
-###### Literal 2
+##### Literal 2
 
 - Para esta parte el ejercicio nos pide imprimir como entrada el nombre del archivo y la identificación del individuo,y devolver el número de registros para esa identificación para lo cual utilizamos: 
 
@@ -62,7 +62,7 @@ $ bash count_baboons.sh Gesquiere2011_data.csv 27
 
 
 
-###### Literal 3
+##### Literal 3
 
 - Para esta esta parte del ejercicio nos pide obtener el número de veces que cada individuo fue muestreado, para lo cual utilizamos: 
 
